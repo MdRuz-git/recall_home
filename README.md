@@ -3,6 +3,7 @@ Traveling is cool but do you wish you could actually go to distant part of the w
   -supports Odyssey spaceship travel  
   -supports multiple caravans  
   
-# built for rimworld 1.6  
+-built for rimworld 1.6  
 -1.5 is not tested, but could work  
 -does not require Odyssey DLC  
+![preview](preview.png)
